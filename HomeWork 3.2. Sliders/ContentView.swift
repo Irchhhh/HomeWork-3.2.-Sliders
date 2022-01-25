@@ -18,7 +18,7 @@ struct ContentView: View {
             Color.clear
                 .edgesIgnoringSafeArea(.all)
         ColorView(redColor: redColorValue / 255,
-                greenColor: greenColorValue / 255,
+            greenColor: greenColorValue / 255,
                 blueColor: blueColorValue / 255)
                 .padding(.top, -280)
             Spacer()
