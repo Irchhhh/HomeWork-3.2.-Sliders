@@ -11,6 +11,7 @@
 		8C9AF854279EBF0700911CA0 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8C9AF853279EBF0700911CA0 /* ContentView.swift */; };
 		8C9AF856279EBF0900911CA0 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 8C9AF855279EBF0900911CA0 /* Assets.xcassets */; };
 		8C9AF859279EBF0900911CA0 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 8C9AF858279EBF0900911CA0 /* Preview Assets.xcassets */; };
+		8C9AF860279EC00400911CA0 /* ColorViewAndSliderView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8C9AF85F279EC00300911CA0 /* ColorViewAndSliderView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +20,7 @@
 		8C9AF853279EBF0700911CA0 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		8C9AF855279EBF0900911CA0 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		8C9AF858279EBF0900911CA0 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		8C9AF85F279EC00300911CA0 /* ColorViewAndSliderView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ColorViewAndSliderView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -53,6 +55,7 @@
 			children = (
 				8C9AF851279EBF0700911CA0 /* HomeWork_3_2__SlidersApp.swift */,
 				8C9AF853279EBF0700911CA0 /* ContentView.swift */,
+				8C9AF85F279EC00300911CA0 /* ColorViewAndSliderView.swift */,
 				8C9AF855279EBF0900911CA0 /* Assets.xcassets */,
 				8C9AF857279EBF0900911CA0 /* Preview Content */,
 			);
@@ -137,6 +140,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				8C9AF860279EC00400911CA0 /* ColorViewAndSliderView.swift in Sources */,
 				8C9AF854279EBF0700911CA0 /* ContentView.swift in Sources */,
 				8C9AF852279EBF0700911CA0 /* HomeWork_3_2__SlidersApp.swift in Sources */,
 			);

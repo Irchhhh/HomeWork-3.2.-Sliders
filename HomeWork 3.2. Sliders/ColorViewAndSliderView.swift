@@ -1,5 +1,5 @@
 //
-//  ColorView.swift
+//  ColorViewAndSliderView.swift
 //  HomeWork 3.2. Sliders
 //
 //  Created by Ирина on 24.01.2022.
